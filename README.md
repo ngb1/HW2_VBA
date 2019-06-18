@@ -6,8 +6,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 # Hard
 
-
-My solution includes everything from the moderate challenge:
+I chose the "Hard" challenge. My solution includes everything from the moderate challenge:
 Created a script that will loop through all the stocks for one year for each run and take the following information: 
 - The ticker symbol.
 - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
@@ -21,11 +20,12 @@ My solution is also able to return the stock with the "Greatest % increase", "Gr
 # Challenge
 
 I made the appropriate adjustments to my script that allowed it to run on every worksheet, i.e., every year, just by running it once.
-This can be applied to any of the difficulties.
 
 # Other Considerations
 
-I used the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 1 minute.
+I used the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. My code ran this file in less than 1 minute.
+
+There are additional lines of code at the bottom. I started assuming the data was not sorted alphabetically (and by date), so created a series of nested loops to solve that. It worked fine in the small dataset but crashed in the big one, after many hours solving. I needed to simplify, so I assumed all the sheets are sorted aphabetically (and by date). I reviewed the results and they look good. Thinking about, I could also have included an automatic sort at the beginning of the code to avoid miscalculations.
 
 
 # Submission
