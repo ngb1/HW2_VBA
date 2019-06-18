@@ -8,15 +8,15 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 
 My solution includes everything from the moderate challenge:
-Create a script that will loop through all the stocks for one year for each run and take the following information: 
+Created a script that will loop through all the stocks for one year for each run and take the following information: 
 - The ticker symbol.
 - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 - The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 - The total stock volume of the stock.
 
-You should also have conditional formatting that will highlight positive change in green and negative change in red.
+I also included the conditional formatting that will highlight positive change in green and negative change in red.
 
-Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+My solution is also able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
 # Challenge
 
@@ -30,11 +30,11 @@ I used the sheet alphabetical_testing.xlsx while developing your code. This data
 
 # Submission
 
-To submit please upload the following to Github:
+To submit I uploaded the following to Github:
 
 
-1) A screen shot for each year of your results on the Multi Year Stock Data: I decided to print the pages (one file per year) instead as a pdf file. It would be easier to check if there's any error in any of the calculations for all the tickers and all the year
-2) VBA Script as separate file.
+1) A screen shot for each year of your results on the Multi Year Stock Data: I decided to print the pages (one file per year) instead as a pdf file. It would be easier to check if there's any error in any of the calculations for all the tickers and all the year (Multiple_year_stock_data_NGB2*.pdf)
+2) VBA Script as separate file. (HW2NEW.bas)
 
 
 
