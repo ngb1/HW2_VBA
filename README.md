@@ -25,7 +25,7 @@ I made the appropriate adjustments to my script that allowed it to run on every 
 
 I used the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. My code ran this file in less than 1 minute.
 
-There are additional lines of code at the bottom. I started assuming the data was not sorted alphabetically (and by date), so created a series of nested loops to solve that. It worked fine in the small dataset but crashed in the big one, after many hours solving. I needed to simplify, so I assumed all the sheets are sorted aphabetically (and by date). I reviewed the results and they look good. Thinking about, I could also have included an automatic sort at the beginning of the code to avoid miscalculations.
+There are additional lines of code at the bottom. I started assuming the data was not sorted alphabetically (and by date), so created a series of nested loops to solve that. It worked fine in the small dataset but crashed in the big one, after many hours solving. I needed to simplify, so I assumed all the sheets are sorted aphabetically (and by date). I reviewed the results and they look good. Thinking about it, in a real life project I would include an automatic sort at the beginning of the code to avoid miscalculations (I would need to investigate it on the internet as it was not covered in the course).
 
 
 # Submission
